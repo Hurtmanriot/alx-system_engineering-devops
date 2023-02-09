@@ -1,2 +1,2 @@
-#!/bin/bash
-su pwd
+#!/bin/bash 
+id -un
