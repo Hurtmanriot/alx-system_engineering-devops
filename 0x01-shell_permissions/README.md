@@ -1,0 +1,1 @@
+basically shell, permissions
